@@ -1,0 +1,24 @@
+{
+    "name": "mahou",
+    "publisher": "Null",
+    "displayName": "Mahou",
+    "description": "Highly colorful theme! Featuring purple, pink, orange, and red!",
+    "version": "0.0.1",
+    "icon": "icon.png",
+    // "repository": "",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mahou",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mahou-color-theme.json"
+            }
+        ]
+    }
+}
