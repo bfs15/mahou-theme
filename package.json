@@ -5,7 +5,7 @@
     "description": "Highly colorful theme! Featuring purple, pink, orange, and red!",
     "version": "0.0.1",
     "icon": "icon.png",
-    // "repository": "",
+    "repository": "https://github.com/bfs15/mahou-theme",
     "engines": {
         "vscode": "^1.44.0"
     },
